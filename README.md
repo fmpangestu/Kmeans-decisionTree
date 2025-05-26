@@ -2,7 +2,8 @@
 
 Ini adalah submission untuk kelas **[Nama Kelas Dicoding Anda, contoh: Belajar Machine Learning untuk Pemula]** di Dicoding. Proyek ini bertujuan untuk melakukan segmentasi pelanggan berdasarkan data transaksi menggunakan teknik _unsupervised learning_ (Clustering) dan kemudian membangun model klasifikasi untuk memprediksi segmen pelanggan.
 
-![image_2722f0.png](image_2722f0.png)
+![image](https://github.com/user-attachments/assets/b2fd9d28-6bc5-4f1f-8ed6-c22ddfeaa941)
+
 
 ## Daftar Isi
 
